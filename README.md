@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaik Ameena
 
-<!--
-**ameena112805/ameena112805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm passionate about learning software development and building projects that help me improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Java, JavaScript and Web Development**
+
+💡 Interested in **Software Development & Front-End Development**
+
+🚀 Always learning, building and improving
+
+---
+
+## 🛠️ Skills
+
+### Programming
+- ☕ Java
+- 💻 JavaScript
+
+### Web Development
+- 🌐 HTML
+- 🎨 CSS
+
+### Tools
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects I'm working on:
+
+- 🌐 **Portfolio Website** — Personal portfolio built using HTML and CSS
+- ☕ **Java Projects** — Learning and practicing Java programming
+- 💻 **Web Development Projects** — Building websites while learning HTML, CSS and JavaScript
+
+👉 Check out my repositories below to see my work.
+
+---
+
+## 📚 Currently Learning
+
+- Java
+- JavaScript
+- Web Development
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaik-ameena-92)
+- 💻 [LeetCode](https://leetcode.com/u/ameena_shaik_/)
+
+---
+
+## 🎯 My Goal
+
+To become a skilled software developer by continuously learning, building real-world projects and improving my problem-solving skills.
+
+---
+
+⭐ **Thanks for visiting my profile!**
